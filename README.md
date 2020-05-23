@@ -1,4 +1,5 @@
 # Filterio
-Import of a Github library to provide basic image filtering options.
+Import of a 3rd-party library to provide basic image filtering options.
 
-Import in Android Studio
+# To run:
+Import in Android Studio, build and run on device.
